@@ -67,4 +67,4 @@ This document defines the problem. Pipeline design, tooling selection, migration
 ---
 
 **Prepared by:** Nabiha
-**Next step:** Manager alignment on problem statement → solution design phase
+**Next step:** Alignment on problem statement → solution design phase
