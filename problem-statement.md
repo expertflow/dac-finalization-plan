@@ -66,5 +66,5 @@ This document defines the problem. Pipeline design, tooling selection, migration
 
 ---
 
-**Prepared by:** Nabiha
+**Prepared by:** Navira
 **Next step:** Alignment on problem statement → solution design phase
