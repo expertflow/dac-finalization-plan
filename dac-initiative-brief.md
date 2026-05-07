@@ -48,7 +48,12 @@ The initiative is structured in four phases, each building on the previous.
 
 ## Success Criteria
 
-The headline measure for this initiative is **doc coverage rate** — the percentage of merged PRs that changed user-facing behavior and included a corresponding doc update. Target: **90% by end of pilot, 100% by full CX rollout.**
+Every time a developer finishes a feature and merges their code, we check: did they also update or write the doc for that feature in the same merge? If yes — that counts as covered. If no — that's a gap.
+
+The headline measure is **doc coverage rate** — out of every 10 features merged in a sprint, how many had a doc included? If 9 did, that is 90%.
+
+- **90% by end of pilot** — a small margin is allowed while the process is being established
+- **100% by full CX rollout** — no feature ships without a doc, zero exceptions
 
 | Outcome | Measure | Target | By When |
 |---|---|---|---|
