@@ -8,6 +8,12 @@
 
 ---
 
+## Purpose
+
+This document defines the scope, phasing, and success criteria for the Documentation as Code (DaC) initiative at ExpertFlow. It is the next step after alignment on the [problem statement](problem-statement.md) and serves as the basis for solution design approval.
+
+---
+
 ## Scope
 
 ### What Is in Scope
