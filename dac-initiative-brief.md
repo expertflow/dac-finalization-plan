@@ -4,12 +4,7 @@
 **Date:** 2026-05-07
 **Status:** Draft — Pending Manager Approval
 **Prepared by:** Navira
-
----
-
-## Purpose
-
-This document defines the scope, phasing, and success criteria for the Documentation as Code (DaC) initiative at ExpertFlow. It is the next step after alignment on the [problem statement](problem-statement.md) and serves as the basis for solution design approval.
+**Related:** [Problem Statement](problem-statement.md)
 
 ---
 
@@ -53,36 +48,14 @@ The initiative is structured in four phases, each building on the previous.
 
 ## Success Criteria
 
-### Quantitative
+The headline measure for this initiative is **doc coverage rate** — the percentage of merged PRs that changed user-facing behavior and included a corresponding doc update. Target: **90% by end of pilot, 100% by full CX rollout.**
 
-| Criterion | Target | Timeframe |
-|---|---|---|
-| PRs with user-facing changes that include a doc update | ≥ 90% | End of pilot sprint |
-| Time from feature merge to docs published on site | ≤ 24 hours | From pipeline go-live |
-| Doc-related support tickets for CX features | Reduced by 50% | 3 months post-pilot |
-| Published docs with a named owner | 100% | End of pilot |
-
-### Qualitative
-
-| Observable Outcome | When |
-|---|---|
-| Release process no longer includes a manual "compile and upload docs" step | First release post-pilot |
-| Docs site reflects the current release, not the previous one | Ongoing from go-live |
-| New developer can find feature context without asking a colleague | By Month 3 |
-
-### Headline Metric
-
-> **Doc coverage rate** — the percentage of merged PRs that changed user-facing behavior and included a corresponding doc update.
-
-- Baseline: measured from Day 1 (even before enforcement)
-- Target: 90% by end of pilot
-- Target: 100% by full CX rollout
-
-### What Success Is Not
-
-- All existing Confluence docs migrated — that is a separate migration project
-- Developers enjoying writing docs — adoption is the goal, not sentiment
-- Zero support tickets — docs reduce them, not eliminate them
+| Outcome | Measure | Target | By When |
+|---|---|---|---|
+| Docs ship with features | Doc coverage rate on merged PRs | ≥ 90% | End of pilot sprint |
+| Docs publish automatically | Time from merge to live on docs site | ≤ 24 hours | From pipeline go-live |
+| Customer impact reduces | Doc-related support tickets for CX | Reduced by 50% | 3 months post-pilot |
+| Ownership is explicit | Published docs with a named owner | 100% | End of pilot |
 
 ---
 
