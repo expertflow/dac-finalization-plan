@@ -1,6 +1,5 @@
 # Documentation as Code — Initiative Brief
 
-**Organization:** ExpertFlow
 **Date:** 2026-05-07
 **Status:** Draft — Pending Manager Approval
 **Prepared by:** Navira
