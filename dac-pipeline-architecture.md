@@ -13,7 +13,7 @@ date: '2026-05-11'
 
 ## Lightweight Requirements
 
-> This section replaces a formal PRD. The product brief is the source of truth for goals and scope.
+> This section replaces a formal PRD. The [product brief](https://github.com/expertflow/dac-finalization-plan/blob/master/dac-pipeline-product-brief.md) is the source of truth for goals and scope.
 > If the brief changes, review this section first for impact.
 
 ### Functional Requirements
