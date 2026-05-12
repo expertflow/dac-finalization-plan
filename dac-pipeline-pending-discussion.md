@@ -1,4 +1,4 @@
-# DaC Pipeline — Manager Discussion Document
+# DaC Pipeline Pending Discussion
 
 **Prepared by:** Navira  
 **Date:** 2026-05-12  
