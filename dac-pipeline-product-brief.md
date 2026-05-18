@@ -35,6 +35,23 @@ no owner, and no enforcement point.
 The cost: support tickets from customers who can't find accurate answers, and developer time
 spent answering questions that documentation should have handled.
 
+## Development Workflow
+
+1. Review the https://expertflow-docs.atlassian.net/wiki/spaces/EF/pages/2000166/Product+Development+Kanban+System where the 
+   1. PO synthesizes customer feedback and create a product feature request
+   2. Works with the team teo define the what part (Discovery stage) with a clear description of why? 
+   3. and there are other steps as mentioned in the document
+2. Review the Release process workflow
+
+## Wish list
+
+1. At the stage of Discovery, the feature description must be clear. Any change during the development process in the feature description should be updated. 
+2. Featuers are for a certain domain and enabling some personas or capabilities in the system. They should somehow be linked to that. 
+3. During the Refinement, when feature specs, design decisions, or change in the requiremets are discovered, they should be captured in some place that reflect in the final documentation. 
+4. During testing if some open issues are marked as limitations, they should also be captured relevant to the workflow or domain that is impacted because of the limitations arose by this new feature. 
+5. 
+   
+
 ## The Solution
 
 The DaC Pipeline embeds documentation into the GitHub workflow CX developers already use:
